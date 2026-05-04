@@ -20,5 +20,15 @@ public class Reto1 {
         System.out.println("Multiplicacion: " + (a * b));
         System.out.println("Division: " + (a / b));
         System.out.println("Residuo: " + (a % b));
+
+        String materiaFavorita = "Programacion";
+        int numeroMateria = 5;
+        double promedio = 8.7;
+        boolean tieneGitHub = true;
+
+        System.out.println("Mteria Favorita: " + materiaFavorita);
+        System.out.println("Numero de materias: " + numeroMateria);
+        System.out.println("Promedio: " + promedio);
+        System.out.println("Tienes GitHub? " + tieneGitHub);
     }
 }
