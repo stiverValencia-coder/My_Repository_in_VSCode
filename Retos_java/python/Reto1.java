@@ -26,7 +26,7 @@ public class Reto1 {
         double promedio = 8.7;
         boolean tieneGitHub = true;
 
-        System.out.println("Mteria Favorita: " + materiaFavorita);
+        System.out.println("Materia Favorita: " + materiaFavorita);
         System.out.println("Numero de materias: " + numeroMateria);
         System.out.println("Promedio: " + promedio);
         System.out.println("Tienes GitHub? " + tieneGitHub);
